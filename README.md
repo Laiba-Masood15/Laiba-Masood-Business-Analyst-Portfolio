@@ -1,5 +1,5 @@
-# Laiba Masood - Business Analyst Portfolio
-This portfolio showcases my work in Business Analytics, focusing on data analysis, visualization, and data-driven problem solving - using MS Excel, MS Power BI, SPSS, Python, and more.
+# Laiba Masood - Data Analyst Portfolio
+This portfolio showcases my work in Data Analytics, focusing on data analysis, visualization, and data-driven problem solving - using MS Excel, MS Power BI, SPSS, Python, and more.
 
 Ahdus Technology Post Performance Analysis: This project showcases a detailed Social Media Analytics dashboard where I tracked the performance of content across the company's social media business pages. It tracks different metrics such as reach, engagement, views, organic followers, high-performing days, content themes that stand out, and so on. First, I tracked these metrics on Excel, and later I created a data visualization dashboard in Power BI, which clearly highlights the important themes and factors. I have also added a detailed report on the insights gained from these analytics and the learnings we can use going forward, on both Excel and Power BI. The dashboard is made for a Germany-based IT company, Ahdus Technology, where I currently work.
 
